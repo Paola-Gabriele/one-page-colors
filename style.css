@@ -9,3 +9,9 @@
 body {
     background-color: var(--background-color);
 }
+
+.secao-cards {
+    display: flex;
+    flex-direction: column;
+    
+}
