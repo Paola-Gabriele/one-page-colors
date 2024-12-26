@@ -13,5 +13,11 @@ body {
 .secao-cards {
     display: flex;
     flex-direction: column;
-    
+}
+
+.cards {
+    background-color: var(--second-background-color);
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 20px 50px;
 }
