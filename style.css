@@ -45,3 +45,13 @@ h2 {
     display: block;
     text-align: center;
 }
+
+img {
+    max-width: 100%;
+    margin: 10px auto;
+}
+
+#colorwheel {
+    display: flex;
+    justify-content: center;
+}
