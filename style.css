@@ -59,3 +59,9 @@ img {
 p, li, strong {
     color: var(--color-text);
 }
+
+@media (max-width: 768px) {
+    .cards {
+        margin: 20px 10px;
+    }
+}
