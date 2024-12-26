@@ -40,3 +40,8 @@ h2 {
     background-color: var(--subtitle-background-color);
     color: var(--color-title);
 }
+
+.code {
+    display: block;
+    text-align: center;
+}
