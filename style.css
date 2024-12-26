@@ -55,3 +55,7 @@ img {
     display: flex;
     justify-content: center;
 }
+
+p, li, strong {
+    color: var(--color-text);
+}
